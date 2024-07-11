@@ -25,6 +25,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+[![Kaggle Competitions Contributor](https://img.shields.io/badge/Kaggle-Competitions_Contributor-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
+[![Kaggle Notebook Expert](https://img.shields.io/badge/Kaggle-Notebook_Expert-800080?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
+[![Kaggle Dataset Contributor](https://img.shields.io/badge/Kaggle-Dataset_Contributor-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
+
 
 - 🔭 I’m currently working on ...
   
@@ -32,18 +36,13 @@
   
 - 👯 I’m looking to collaborate on ...
 
-<a href="https://github.com/naoki901373/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naoki901373&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/naoki901373/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki901373&theme=radical" />
-</a>
-
-[![Kaggle Notebook Expert](https://img.shields.io/badge/Kaggle-Notebook_Expert-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
-[![Kaggle Competitions Expert](https://img.shields.io/badge/Kaggle-Competitions_Expert-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
-[![Kaggle Dataset Expert](https://img.shields.io/badge/Kaggle-Dataset_Expert-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/naokisugimura)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=naoki901373&show_icons=true&theme=radical)
+![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naoki901373&theme=radical)
 
 
+
+
+<!--
 <a href="https://www.kaggle.com/naokisugimura/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
 </a>
-
+-->
