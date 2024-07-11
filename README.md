@@ -5,10 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=naoki901373" alt="naoki901373" />
   </a>
   <a href="http://x.com/naoki_jsb0531">
-    <img height="20" src="https://img.shields.io/twitter/follow/naoki_jsb0531?label=folows&logo=x&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/naoki_jsb0531?label=folowers&logo=x&style=flat" />
   </a>
   <a href="https://github.com/naoki901373">
-    <img height="20" src="https://img.shields.io/github/followers/naoki901373?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/naoki901373?label=folowers&logo=github&style=flat" />
   </a>
 </p>
 
@@ -26,10 +26,15 @@
 - 🌱 I’m currently learning Computer Science and Financial Engineering
   
 - 👯 I’m looking to collaborate on ...
-  
-  
 
-![naoki901373's GitHub stats](https://github-readme-stats.vercel.app/api?username=naoki901373&show_icons=true&theme=radical) 
+<a href="https://github.com/naoki901373/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=naoki901373&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/naoki901373/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naoki901373&theme=radical" />
+</a>
 
-<a href="https://www.kaggle.com/naokisugimura/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+
+<a href="https://www.kaggle.com/naokisugimura/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40">
+</a>
 
