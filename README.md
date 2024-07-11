@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=naoki901373" alt="naoki901373" />
   </a>
   <a href="http://x.com/naoki_jsb0531">
-    <img height="20" src="https://img.shields.io/twitter/follow/naoki_jsb0531?label=Twitter&logo=twitter&style=flat" />
+    <img height="20" src="https://img.shields.io/twitter/follow/naoki_jsb0531?label=folows&logo=x&style=flat" />
   </a>
   <a href="https://github.com/naoki901373">
     <img height="20" src="https://img.shields.io/github/followers/naoki901373?label=follow&logo=github&style=flat" />
